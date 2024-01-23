@@ -9,7 +9,7 @@ document.getElementById("quiz-form").addEventListener("submit", function (event)
     localStorage.setItem("SelectedNR", answerValue);
     console.log("Selected answer registered in local storage:", answerValue);
 
-    window.location.href = "https://impanda9.github.io/10scutQ/";
+    window.location.href = "https://impanda9.github.io/11typtst/";
   } else {
     console.log("No answer selected");
   }
